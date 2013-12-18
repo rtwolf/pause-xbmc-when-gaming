@@ -6,7 +6,8 @@ REM 3. Change the file name to be the same as the application or executible (.ex
 REM 4. ???
 REM 5. Profit!
 
-REM Created by RT Wolf out of frustration on Dec 18, 2013. github.com/rtwolf has more useful XBMC scripts
+REM Created by RT Wolf out of frustration on Dec 18, 2013.
+REM Hosted at https://github.com/rtwolf/pause-xbmc-when-gaming
 REM Based on this script by Angelscry: http://www.gwenael.org/forum/viewtopic.php?id=5
 
 pssuspend "XBMC.exe"
