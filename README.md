@@ -6,7 +6,7 @@ If you use XBMC to launch an emulator or other game, XBMC uses up a lot of CPU i
 Instructions:
 1. Download PsTools and extract into your Windows directory: http://technet.microsoft.com/en-us/sysinternals/bb896649
 2. Copy this batch file into the folder where the emulator is (e.g. in the Program Files folder).
-3. Change the file name to be the same as the application (.exe) file you're trying to launch.
+3. Change the batch file name to be the same as the application (.exe) filename you're trying to launch. E.g. change it to "snes9x.bat"
 
 I'm clearly standing on the shoulders of giants:
 
